@@ -1,5 +1,5 @@
-#Week 3 Project
-##All rights are reserved by original author or authors or ross
+#Project Progress check - week 3
+##All rights are reserved by Joanne
 
 ##Service Start Sequence
 1. docker-compose up
